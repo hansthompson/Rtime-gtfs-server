@@ -3,9 +3,7 @@
 
 This project is an attempt to rewrite https://github.com/codeforanchorage/api-realtime-bus to generalize across any gtfs file and any gps bus feed.  
 
-To start looking into the development of this;
-
-```library(devtools);install_github("hansthompson/gtfsdrilldown")```
+To start looking into the development of this run ```library(devtools);install_github("hansthompson/gtfsdrilldown")```
 
 ...and then open up the trip_constraining.R in this project, install all the other packages, and start going line by line and inspecting objects to see more.  
 
